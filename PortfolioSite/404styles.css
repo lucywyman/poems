@@ -1,0 +1,125 @@
+body{
+margin: 0px;
+padding: 0px;
+background: #222222;
+}
+
+#pagediv{
+margin: 0px;
+margin-top: 0px;
+padding:0px;
+position: absolute;
+width: 100vw;
+}
+
+#contentdiv{
+padding: 0px;
+margin: 0px;
+margin-top: -130 px;
+width: 100%;
+height: 70%;
+top: 0px;
+}
+
+h2{
+color: #fffbff;
+font-family: "Offside", cursive;
+font-size: 200px;
+padding: 30px;
+margin-left: auto;
+margin-right: auto;
+text-shadow: 0 0 80px #39ff14, 0 0 30px #39ff14, 0 0 6px #39ff14;
+text-align: center;
+}
+
+h3{
+color: #fffbff;
+font-family: "offside", cursive;
+font-size: 60px;
+padding: 30px;
+margin-left: auto;
+margin-right: auto;
+text-shadow: 0 0 80px #39ff14, 0 0 30px #39ff14, 0 0 6px #39ff14;
+text-align: center;
+text-decoration: none;
+}
+
+#homepage{
+text-decoration: none;
+color: #fffbff;
+}
+
+#four{
+opacity: .6;
+}
+
+#zero{
+animation: flicker 6s linear infinite;
+}
+
+#E{
+animation: flicker 7s linear infinite;
+}
+
+#o{
+animation: flicker 11s linear infinite;
+}
+
+#swing{
+text-shadow: 0 0 80px #39ff14, 0 0 30px #39ff14, 0 0 6px #39ff14;
+padding-top:5px;
+margin: 0px;
+width: 0px;
+height: 0px;
+display: inline-block;
+-moz-animation: 3s ease 0s normal none infinite rotate;
+-moz-transform-origin: top-right;
+-webkit-animation: rotate 3s infinite ease-in-out;
+-webkit-transform-origin: top-right;
+opacity: .6;
+}
+
+@-moz-keyframes rotate{
+0%{transform: rotate(10deg)}
+50%{transform: rotate(2deg)}
+100%{transform: rotate(10deg)}
+}
+
+@-webkit-keyframes rotate {
+0%{transform: rotate(10deg)}
+50%{transform: rotate(2deg)}
+100%{transform: rotate(10deg)}
+}
+
+@keyframes flicker{
+0%, 19.99999%, 22%, 62.99%, 64%, 64.9999999%, 70%, 100%{
+opacity: .99; text-shadow: 0 0 80px #39FF14, 0 0 30px #39FF14, 0 0 6px #39FF14;
+}
+20%, 21.99999%, 63%, 63.9999%, 65%, 69.99999%{
+opacity: 0.4; text-shadow: none;
+}
+}
+
+#footer{
+height: 75px;
+width: 100%;
+background: #000000;
+left: 0px;
+padding: 0px;
+margin: 0px;
+overflow: visible;
+position: absolute;
+}
+
+#footercontent{
+margin-left: 50px;
+margin-top: 10px;
+}
+
+.footerp{
+font-size: 18px;
+color: #ffffff;
+font-family: "Raleway", sans-serif;
+margin: 0px;
+padding: 0px;
+}
