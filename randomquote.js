@@ -1,6 +1,7 @@
 function randomquote(){
 var quotes=[
-"'Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.' ~Oscar Wilde",
+"Generally speaking, now is as good a time as any",
+    "'Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.' ~Oscar Wilde",
 "Appreciative love gazes and holds it's breath and is silent, rejoices that such a wonder should exist even if not for him, will not be wholly dejected by losing her, would rather have it so than to never have seen her at all' ~ CS Lewis, 'The four loves'",
 "'There is nothing good or bad, but thinking makes it so' ~William Shakespeare, <i>Hamlet</i>",
 "'What is now proved was once only imagin/'d' ~William Blake, <i>The Marriage of Heaven and Hell</i>",
