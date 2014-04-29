@@ -24,7 +24,8 @@ function randomquote(){
     "\"I am the subject I know best.\" ~Frida Kahlo", 
     "\"If you’re going to try, go all the way.  There’s nothing like that.\" ~Charles Bukowski, \"Roll the Dice\"", 
     "\"Don't you know that only fools are satisfied\" ~Billy Joel, \"Vienna\""];
-    var quote=quotes[Math.floor(Math.random()*quotes.length)];
+    "\"When I dropped him, I shattered.  Translation: No man has pleased me since\" ~Haley Mosley, \"Boyfriend Interview\"",
+	var quote=quotes[Math.floor(Math.random()*quotes.length)];
 
     document.getElementById("quotesection").innerHTML=quote;
 }
