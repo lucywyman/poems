@@ -26,7 +26,7 @@ function randomquote(){
 	"\"Don't you know that only fools are satisfied\" ~Billy Joel, \"Vienna\""
 	"\"When I dropped him, I shattered.  Translation: No man has pleased me since\" ~Haley Mosley, \"Boyfriend Interview\"",
 	"\"Loving you was the last thing I felt really good at.\" ~Rudy Francisco, \"Scars\"", 
-	"\"When I wanna be a superhero I just wake up.\" ~Childish Gambino, \"Not going back\"",];
+	"\"When I wanna be a superhero I just wake up.\" ~Childish Gambino, \"Not going back\""];
 	var quote=quotes[Math.floor(Math.random()*quotes.length)];
 
 	document.getElementById("quotesection").innerHTML=quote;
