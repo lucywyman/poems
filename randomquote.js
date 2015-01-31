@@ -1,6 +1,6 @@
 function randomquote(){
 	var quotes=[
-    "&quot;Zakalwe, in all human societies we have ever reviewed, in every age and every state, there has seldom if ever been a shortage of eager young males prepared to kill and die to preserve the security, comfort and prejudices of their elders, and what you call heroism is just an expression of this simple fact; there is never a scarcity of idiots.&quot; ~Iain M. Banks, <i>Use of Weapons</i>
+    "&quot;Zakalwe, in all human societies we have ever reviewed, in every age and every state, there has seldom if ever been a shortage of eager young males prepared to kill and die to preserve the security, comfort and prejudices of their elders, and what you call heroism is just an expression of this simple fact; there is never a scarcity of idiots.&quot; ~Iain M. Banks, <i>Use of Weapons</i>",
     "&quot;The only truth I can express is, logically defined, a lie. Psychologically defined, a symbol. Aesthetically defined, a metaphor.&quot; ~Ursula K. Le Guin, <i>The Left-hand of Darkness</i>",
 		"&quot;That little girl's not bossy. That little girl has executive leadership skills.&quot; ~Sheryl Sandberg, &quot;So...We leaned in, now what?&quot;",
 	"Generally speaking, now is as good a time as any",
