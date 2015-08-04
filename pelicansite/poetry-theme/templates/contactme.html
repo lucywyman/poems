@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Call me, beep me</h2>
+<p>Email me at wyman.lucy@gmail.com<br>
+    Message lucyw on irc.freenode.net or irc.mozilla.org<br>
+    Check out my work on <a href='https://github.com/lucywyman'>github</a><br>
+    Or send me your comments!</p>
+<form id="comments" action="theme/send_mail.php" method="post">
+    <table>
+        <tr>
+            <td><p>Email Address:</p></td>
+            <td><input class="cell" type="text" name="email_address" value="" maxlength="150">
+            </td>
+        </tr>
+        <tr>
+            <td><p>Comments:</p></td>
+            <td><textarea class="cell" rows="10" cols="50" name="comments"></textarea>
+            </td>
+        </tr>
+        <tr><td>&nbsp;</td>
+            <td><input id="submitbutton" type="submit" value="Submit">
+            </td>
+        </tr>
+    </table>
+</form>	
+{% endblock %}

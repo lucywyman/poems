@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+	<h2>Poems</h2>
+	<ul id="poems">
+        {% for article in articles %}
+        <li class="poemclass"><a href="{{ article.url }}" class="poemlink">{{ article.title }}</a></li>
+        {% endfor %}
+	</ul>
+{% endblock %}

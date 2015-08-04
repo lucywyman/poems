@@ -1,0 +1,193 @@
+body{
+height: 100%;
+margin: 0px;
+padding: 0px;
+background: url('../images/skelatal_weave.png');}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: #003366;
+}
+
+a:hover {
+    color: #444;
+}
+
+#logo{
+margin: 0px;
+padding: 0px;
+width: 100px;
+height: 100px;}
+
+#pagediv{
+margin: 8%;
+margin-top: 70px;
+padding: 0px;
+background: #ffffff;
+width:84%;
+position: absolute;
+box-shadow: 0px 0px 5px #000000}
+
+#sidebardiv{
+height: 300px;
+width: 200px;
+margin-top: -10px;
+background: #003366;
+margin-left: 7%;
+display: block;
+position: absolute;}
+
+#sidemenu{
+text-align:center;
+padding:0px;
+margin:0px;
+margin-top: 30px;
+}
+
+.link{
+text-decoration: none;
+color: #ffffff;
+transition: 1s;
+font-size: 24px;
+font-family: "Coming soon", cursive;
+line-height: 40px;
+display: block;
+text-align: center;
+padding: 0px;
+}
+
+#sidemenu{
+margin-top:40px;}
+
+.sideitem{
+display:block;
+margin: 0px;
+padding: 0px;}
+
+.link:hover{
+color:#B6E0E4;
+background-color: rgba(255, 255, 255, .3);}
+
+#ribbontail {
+margin-left: 7%;
+padding: 0px;
+position: absolute; 
+display: table-row;
+margin-top: 280px;}
+
+#left, #right {
+display: table-cell;
+border-top: 50px solid #003366; 
+border-bottom: 50px solid transparent; 
+height: 0px; 
+width: 0px; }
+
+#left{  
+border-left: 100px solid #003366; }
+
+#right{ 
+border-right: 100px solid #003366; }
+
+#contentdiv{
+padding:0px 0px 40px;
+margin:0px;
+width:70%;
+float:right;}
+
+#logo{
+width:60%;
+margin-left: 20%;
+margin-right: 20%;
+height: auto;
+padding: 0px;
+background: #003366;}
+
+h2{
+margin-top:30px;
+margin-bottom: 10px;
+font-size: 36px;
+color:#000000;
+text-align:center;
+font-family: "Raleway", sans-serif;}
+
+h3{
+vertical-align:middle;
+padding: 0px;
+color: #000000;
+font-family: "Raleway", sans-serif;
+font-size: 24px;
+margin: 0 auto;}
+
+p, li, .line {
+line-height:24px;
+color:#000000;
+font-family:"Raleway", sans-serif;
+font-size:16px;
+}
+
+/*.line-block{
+    padding: 10px;
+}*/
+
+.line-block > .line > .line-block{
+    padding: 0px 30px;
+}
+
+.poemclass{
+display: block;
+}
+
+.poemlink{
+line-height: 70px;
+text-decoration: none;
+color: #000000;
+font-size: 30px;
+transition: .5s;
+font-family: "Raleway", sans-serif;}
+
+.poemlink:hover{
+color: #003366;
+font-size: 33px;}
+
+.cell{
+border: 2px solid black;}
+
+#comments{
+padding: 0px;
+margin-bottom: 30px;}
+
+#submitbutton{
+background: #003366;
+color: #ffffff;
+border: 2px solid black;
+font-size: 24px;
+font-family: "Raleway", sans-serif;}
+
+#submitbutton:hover{
+background:#ffffff;
+color:#000000;
+cursor: pointer;}
+
+#submitbutton:active{
+box-shadow: 0px 0px 1px 2px;}
+
+.polaroid {
+position: relative;
+width: 100%;
+margin: 30px;}
+ 
+.polaroid img {
+transform: rotate(-3deg);
+mozilla-transform: rotate(-3deg);
+webkit-transform: rotate(-3deg);
+o-transform: rotate(-3deg);
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 10px solid #ffffff;
+border-bottom: 70px solid #fff;
+box-shadow: 0px 0px  1px 3px #777;
+width: 40%;}
