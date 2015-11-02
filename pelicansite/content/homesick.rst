@@ -1,13 +1,12 @@
 On being homesick
 =================
 :slug: homesick
-:type: poem
- 
+:date: November 20, 2013
+
 | I miss you
 | I miss you like a retired school teacher misses the sound of children laughing
 | I miss you like a model misses eating oreos
 | like a bed misses having two people in it
-| like the Ottoman empire misses existing
 | I miss you like a first year college student misses home
 | and like a twenty-something with a Ph.D in business relations misses his mom’s homemade spaghetti
 | I miss you like summer misses the snow
@@ -22,4 +21,3 @@ On being homesick
 | I miss you like an army wife misses her husband, always afraid that this will be the last time she talks to him
 | like a prisoner misses being able to see the moon at night
 | And I know you don’t want to talk to me but my point here is that I miss you
-| A lot

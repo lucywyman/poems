@@ -1,7 +1,7 @@
 On becoming a mother
 ====================
 :slug: mother
-:type: poem
+:date: April 28, 2013
  
 | I can’t really say it’s logical,
 | Or that my reasons are methodical

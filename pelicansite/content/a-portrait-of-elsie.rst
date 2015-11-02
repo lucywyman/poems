@@ -1,6 +1,7 @@
 A Portrait of Elsie
 ===================
 :slug: elsie
+:date: July 24, 2015
 
 | What would you say if I told you you were beautiful?
 | If I said, out loud, to your face

@@ -1,0 +1,12 @@
+Day 1: I love you too
+=====================
+:slug: 1
+:date: November 1, 2015
+
+def say():
+	if(self.feeling == needy):
+		print("I love you")
+		requite_love()
+		self.feeling = ok
+	else:
+		print("I'm trying to say 'I love you' less, so the words don't lose their meaning")

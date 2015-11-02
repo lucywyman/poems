@@ -1,7 +1,7 @@
 On being in love
 ================
 :slug: love
-:type: poem
+:date: January 17, 2013
 
 | I wanted to write you a love poem, but
 | Then I realized that there aren't enough words in the dictionary
