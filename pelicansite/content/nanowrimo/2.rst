@@ -1,7 +1,7 @@
-Day 2: Calmate
+Day 2: Cálmate
 ==============
 :slug: Calmate
 :date: November 2, 2015
-
+:nano:
 
 You're allowed to make mistakes

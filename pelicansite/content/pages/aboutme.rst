@@ -3,12 +3,6 @@ About Me
 :slug: about
 :type: page
 
-.. raw:: html
-
-	<div class="polaroid">
-	    <img src="theme/images/lucypicture3.jpg">
-	</div>
-
 Lucy is:
 --------
 
@@ -28,3 +22,11 @@ Lucy is:
 * A maker
 * A `baker <http://recipes.lucywyman.me>`_
 * A hopeless idealist
+
+.. raw:: html
+
+	<div class="polaroid">
+	    <img src="theme/images/lucypicture3.jpg">
+	</div>
+
+

@@ -17,6 +17,7 @@ DEFAULT_PAGINATION = False
 THEME = 'poetry-theme'
 DIRECT_TEMPLATES = ['index', 'poems', 'contactme']
 PAGE_SAVE_AS = '{slug}.html'
+USE_FOLDER_AS_CATEGORY = True
 
 #Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

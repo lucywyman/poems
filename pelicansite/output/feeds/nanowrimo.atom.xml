@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Poetry</title><link href="/" rel="alternate"></link><link href="/feeds/nanowrimo.atom.xml" rel="self"></link><id>/</id><updated>2015-11-06T14:59:16-08:00</updated><entry><title>Day 3: Ode to Tomato Soup</title><link href="/Ode%20to%20Tomato%20Soup.html" rel="alternate"></link><updated>2015-11-06T14:59:16-08:00</updated><author><name></name></author><id>tag:,2015-11-06:Ode to Tomato Soup.html</id><summary type="html">&lt;p&gt;Oh, Tomato Soup
+You have always been tehre for me
+Through thick and thin, you were there
+Sometimes thick, sometimes thin, but always warm
+(Except for that one time in the dorms, but I don't hold it against you)
+Tomato Soup, you and your tireless sidekick Grilled Cheese
+Are the very picture of perfection
+Envied by all other culinary creations
+Even Pizza cannot compete&lt;/p&gt;
+</summary></entry><entry><title></title><link href="/.html" rel="alternate"></link><updated>2015-11-06T13:43:59-08:00</updated><author><name></name></author><id>tag:,2015-11-06:.html</id><summary type="html"></summary></entry><entry><title>Day 2: Cálmate</title><link href="/Calmate.html" rel="alternate"></link><updated>2015-11-02T00:00:00-08:00</updated><author><name></name></author><id>tag:,2015-11-02:Calmate.html</id><summary type="html">&lt;p&gt;You're allowed to make mistakes&lt;/p&gt;
+</summary></entry><entry><title>Day 1: I love you too</title><link href="/1.html" rel="alternate"></link><updated>2015-11-01T00:00:00-07:00</updated><author><name></name></author><id>tag:,2015-11-01:1.html</id><summary type="html">&lt;dl class="docutils"&gt;
+&lt;dt&gt;def say():&lt;/dt&gt;
+&lt;dd&gt;&lt;dl class="first last docutils"&gt;
+&lt;dt&gt;if(self.feeling == needy):&lt;/dt&gt;
+&lt;dd&gt;print(&amp;quot;I love you&amp;quot;)
+requite_love()
+self.feeling = ok&lt;/dd&gt;
+&lt;dt&gt;else:&lt;/dt&gt;
+&lt;dd&gt;print(&amp;quot;I'm trying to say 'I love you' less, so the words don't lose their meaning&amp;quot;)&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+</summary></entry></feed>
